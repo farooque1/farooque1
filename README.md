@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @farooque1
+- 👋 Hi, I’m @farooque1  (Farooque Shaikh).
 - 👀 I’m interested in Web Development & Mobile App Development.
 - 🌱 I’m currently learning React JS , Angular JS and PHP.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m currently working as a Software Developer last 2+ year.
+- 📫 How to reach me ->  sfarooque65@gmail.com
 
 <!---
 farooque1/farooque1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
