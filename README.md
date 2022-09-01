@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farooque1  (Farooque Shaikh).
 - 👀 I’m interested in Web Development & Mobile App Development.
-- 🌱 I’m currently learning React JS , Angular JS and PHP.
-- 💞️ I’m currently working as a Software Developer last 2+ year.
+- 🌱 I’m currently working on React JS , Angular JS and PHP.
+- 💞️ I’m currently work as a Software Developer last 2+ year.
 - 📫 How to reach me ->  shaikhfarooque1995@gmail.com
 
 <!---
