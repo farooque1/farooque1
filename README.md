@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farooque1  (Farooque Shaikh).
-- 👀 I’m Web Development.
+- 👀 I’m a Web Developer.
 - 🌱 I’m currently working on React JS ,Redux and PHP.
-- 💞️ I’m currently work as a Software Developer last 2+ year.
+- 💞️ I’m currently working as a Software Developer last 2+ year.
 - 📫 How to reach me ->  shaikhfarooque1995@gmail.com
 
 <!---
