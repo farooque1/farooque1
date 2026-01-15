@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farooque Shaikh</h1>
-<h3 align="center">Full Stack Developer | React | Node.js | Java</h3>
+<h3 align="center">Full Stack Developer |JAVASCRIPT + TS | React | NEXT.js | Node.js | Postgres DB </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-India-green" />
@@ -10,19 +10,21 @@
 
 ## 👨‍💻 About Me
 - 💼 Full Stack Developer (Frontend + Backend)
-- ⚛️ React, Next.js, Bootstrap lover
+- ⚛️ React, Next.js, Node.js lover
 - 🌱 Currently learning **AI integration & scalable systems**
 - 🧠 Strong in problem-solving & real-world applications
-- 📫 Reach me at **your-email@gmail.com**
+- 📫 Reach me at  <a href="https://www.linkedin.com/in/mohammed-farooque-shaikh-4675ba168/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+  </a>
 
 ---
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammed-farooque-shaikh-4675ba168/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
   </a>
-  <a href="https://portfolio-link.com" target="_blank">
+  <a href="https://farooqueport.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel" />
   </a>
 </p>
@@ -63,3 +65,4 @@
 ---
 
 ⭐ _“Code with clarity. Build with purpose.”_
+
