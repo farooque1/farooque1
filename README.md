@@ -13,9 +13,7 @@
 - ⚛️ React, Next.js, Node.js lover
 - 🌱 Currently learning **AI integration & scalable systems**
 - 🧠 Strong in problem-solving & real-world applications
-- 📫 Reach me at  <a href="https://www.linkedin.com/in/mohammed-farooque-shaikh-4675ba168/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
-  </a>
+- 📫 Reach me at <h2><a href="https://www.linkedin.com/in/mohammed-farooque-shaikh-4675ba168/" target="_blank">Linkedin </a> </h2>
 
 ---
 
@@ -45,24 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Top Projects
-- 🔗 **Lead Management System (LMS)**
-- 🔗 **Insurance CRM Dashboard**
-- 🔗 **Job Portal using Next.js**
-- 🔗 **E-commerce App (React Native)**
-
----
-
 ⭐ _“Code with clarity. Build with purpose.”_
+
 
