@@ -31,18 +31,29 @@
 
 ## 🛠️ Tech Stack
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js"/>
+  <img src="https://img.shields.io/badge/Angular-red?logo=angular"/>
   <img src="https://img.shields.io/badge/Node.js-green?logo=node.js"/>
-  <img src="https://img.shields.io/badge/Java-orange?logo=java"/>
   <img src="https://img.shields.io/badge/Express.js-gray?logo=express"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql"/>
   <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql"/>
-  <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb"/>
+  <img src="https://img.shields.io/badge/AWS-orange?logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Vercel-black?logo=vercel"/>
   <img src="https://img.shields.io/badge/Docker-blue?logo=docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-black?logo=githubactions"/>
+  <img src="https://img.shields.io/badge/Postman-orange?logo=postman"/>
+  <img src="https://img.shields.io/badge/Auth0-black?logo=auth0"/>
+  <img src="https://img.shields.io/badge/AI-purple?logo=openai"/>
 </p>
+
 
 ---
 
 ⭐ _“Code with clarity. Build with purpose.”_
+
 
 
